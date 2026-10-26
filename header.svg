@@ -1,0 +1,56 @@
+<svg width="1600" height="170" viewBox="0 0 1600 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090E18"/>
+      <stop offset="0.32" stop-color="#16102E"/>
+      <stop offset="0.68" stop-color="#4C1D95"/>
+      <stop offset="1" stop-color="#E879F9"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 56) rotate(90) scale(145 460)">
+      <stop stop-color="#F472B6" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(620 28) rotate(90) scale(110 280)">
+      <stop stop-color="#A78BFA" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bottomFade" x1="0" y1="0" x2="0" y2="170" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.74"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="170" rx="28" fill="#050814"/>
+  <rect x="0" y="0" width="1600" height="170" rx="28" fill="url(#bg)" opacity="0.95"/>
+  <rect x="0" y="0" width="1600" height="170" rx="28" fill="url(#glow1)"/>
+  <rect x="0" y="0" width="1600" height="170" rx="28" fill="url(#glow2)"/>
+
+  <g opacity="0.08" stroke="#F5F3FF" stroke-width="1">
+    <path d="M50 0V170"/><path d="M95 0V170"/><path d="M140 0V170"/><path d="M185 0V170"/>
+    <path d="M230 0V170"/><path d="M275 0V170"/><path d="M320 0V170"/><path d="M365 0V170"/>
+    <path d="M410 0V170"/><path d="M455 0V170"/><path d="M500 0V170"/><path d="M545 0V170"/>
+    <path d="M590 0V170"/><path d="M635 0V170"/><path d="M680 0V170"/><path d="M725 0V170"/>
+    <path d="M770 0V170"/><path d="M815 0V170"/><path d="M860 0V170"/><path d="M905 0V170"/>
+    <path d="M950 0V170"/><path d="M995 0V170"/><path d="M1040 0V170"/><path d="M1085 0V170"/>
+    <path d="M1130 0V170"/><path d="M1175 0V170"/><path d="M1220 0V170"/><path d="M1265 0V170"/>
+    <path d="M1310 0V170"/><path d="M1355 0V170"/><path d="M1400 0V170"/><path d="M1445 0V170"/>
+    <path d="M1490 0V170"/><path d="M1535 0V170"/>
+    <path d="M0 36H1600"/><path d="M0 78H1600"/><path d="M0 120H1600"/>
+  </g>
+
+  <g stroke="#C084FC" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.54">
+    <path d="M62 115H185L226 82H348L382 48H496"/>
+    <path d="M520 132H676L708 101H820"/>
+    <path d="M1088 42H1216L1245 66H1324"/>
+    <path d="M1110 108H1236L1270 74H1424L1452 52H1534"/>
+  </g>
+
+  <g fill="#F472B6">
+    <circle cx="226" cy="82" r="5.2"/>
+    <circle cx="382" cy="48" r="5.2"/>
+    <circle cx="1245" cy="66" r="5.2"/>
+    <circle cx="1368" cy="76" r="5.2"/>
+  </g>
+
+  <rect x="0" y="0" width="1600" height="170" rx="28" fill="url(#bottomFade)"/>
+</svg>

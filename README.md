@@ -15,12 +15,28 @@
 
 
 
+
 ### Links
+
+<p align="left">
+  <a href="mailto:hlnam@ramo.yonsei.ac.kr">
+    <img src="https://img.shields.io/badge/GMAIL-262139?style=for-the-badge&logo=gmail&logoColor=F472B6" height="29" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/hyelin-nam-1811b229a">
+    <img src="https://img.shields.io/badge/LINKEDIN-252341?style=for-the-badge&logo=linkedin&logoColor=A78BFA" height="29" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=KTjNYtAAAAAJ">
+    <img src="https://img.shields.io/badge/SCHOLAR-202C49?style=for-the-badge&logo=googlescholar&logoColor=79B8FF" height="29" alt="Google Scholar" />
+  </a>
+</p>
+
+
+
 
 <p align="left">
   <a href="https://scholar.google.com/citations?user=KTjNYtAAAAAJ">
     <img
-      src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=KTjNYtAAAAAJ&count=8"
+      src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=KTjNYtAAAAAJ&count=5"
       width="100%"
       alt="Google Scholar Publications"
     />

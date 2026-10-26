@@ -32,45 +32,23 @@
 
 
 <table>
-  <thead>
-    <tr>
-      <th align="left" width="90%">Publications</th>
-      <th align="center">Cites</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>Semantic-Aware Resource Allocation for AI-Native Wireless Networks</b><br/>
-        <sub>H. Nam, J. Kim, S.-L. Kim</sub><br/>
-        <sub>2026</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/42-58A6FF?style=flat&labelColor=58A6FF&color=58A6FF" alt="42 citations"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Multimodal Generative AI for Semantic Communication Systems</b><br/>
-        <sub>H. Nam, J. Park, M. Bennis, S.-L. Kim</sub><br/>
-        <sub>2025</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/18-58A6FF?style=flat&labelColor=58A6FF&color=58A6FF" alt="18 citations"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Communication-Efficient Distributed Learning over Wireless Networks</b><br/>
-        <sub>H. Nam, S. Oh, J. Park, S.-L. Kim</sub><br/>
-        <sub>2024</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/7-58A6FF?style=flat&labelColor=58A6FF&color=58A6FF" alt="7 citations"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <tr>
+    <td width="32%" valign="top">
+      <img src="./metrics-overview.svg" width="100%" alt="GitHub Overview" />
+    </td>
+    <td width="32%" valign="top">
+      <img src="./metrics-languages.svg" width="100%" alt="Languages" />
+    </td>
+    <td width="32%" valign="top">
+      <img src="./metrics-wakatime.svg" width="100%" alt="WakaTime" />
+    </td>
+  </tr>
+</table> -->
+<p align="left">
+  <img src="./metrics-overview.svg" width="95%" alt="GitHub Overview" />
+  <img src="./metrics-languages.svg" width="50%" alt="Languages" />
+  <img src="./metrics-wakatime.svg" width="95%" alt="WakaTime" />
+</p> -->
 
 
 <table>

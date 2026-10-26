@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="violet pink digital banner" />
+  <img src="header.svg" width="100%" alt="violet pink digital banner" />
 </p>
 
 <h1 align="center">Hi, I'm Hyelin Nam</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/research.svg" width="92%" alt="Research themes" />
+  <img src="research.svg" width="92%" alt="Research themes" />
 </p>
 
 

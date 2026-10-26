@@ -64,8 +64,7 @@
         <img src="https://www.google.com/s2/favicons?domain=hyundai.com&sz=128" width="24"/> &nbsp; Hyundai Motor Company, Korea<br/>
         <img src="https://www.google.com/s2/favicons?domain=sktelecom.com&sz=128" width="24"/> &nbsp; SK Telecom, Korea<br/>
         <img src="https://www.google.com/s2/favicons?domain=ewha.ac.kr&sz=128" width="24"/> &nbsp; Ewha Womans University, Seoul, Korea<br/>
-        <img src="https://www.google.com/s2/favicons?domain=inha.ac.kr&sz=128" width="24"/> &nbsp; Inha University, Korea<br/>
-        
+        <img src="[https://www.google.com/s2/favicons?domain=inha.ac.kr&sz=128](https://thumb.wikimedia.org/wikipedia/en/thumb/5/5f/Inha_University.svg/1280px-Inha_University.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)" width="24"/> &nbsp; Inha University, Korea<br/>
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/Python-262139?style=for-the-badge&logo=python&logoColor=F472B6" height="27"/>

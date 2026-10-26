@@ -1,6 +1,6 @@
 <!-- Theme: minimal / blush-purple digital -->
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Violet and pink digital line banner" />
+  <img src="header.svg" width="100%" alt="Violet and pink digital line banner" />
 </p>
 
 <h1 align="center">Hi, I'm Hyelin Nam <sup>✳</sup></h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/research.svg" width="100%" alt="Semantic Communications, Multimodal GenAI, Large Language Models, Distributed Learning, Wireless Testbeds" />
+  <img src="research.svg" width="100%" alt="Semantic Communications, Multimodal GenAI, Large Language Models, Distributed Learning, Wireless Testbeds" />
 </p>
 
 Links

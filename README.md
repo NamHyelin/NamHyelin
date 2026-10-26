@@ -68,7 +68,7 @@
 </a><br/>
 
 <a href="https://www.isct.ac.jp/en">
-  <img src="https://www.google.com/s2/favicons?domain=isct.ac.jp&sz=128" width="24" height="24" alt="Science Tokyo"/>
+  <img src="https://www.google.com/s2/favicons?domain=www.isct.ac.jp&sz=128" width="24" height="24" alt="Science Tokyo"/>
   <img src="https://img.shields.io/badge/Institute_of_Science_Tokyo_·_Japan-202C49?style=for-the-badge" height="27"/>
 </a><br/>
 

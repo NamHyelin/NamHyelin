@@ -55,15 +55,17 @@
   <tbody>
     <tr>
       <td valign="top">
-        <img src="https://www.google.com/s2/favicons?domain=yonsei.ac.kr&sz=128" width="24"/> &nbsp; Yonsei University<br/>
-        <img src="https://www.google.com/s2/favicons?domain=ewha.ac.kr&sz=128" width="24"/> &nbsp; Ewha Womans University<br/>
-        <img src="https://www.google.com/s2/favicons?domain=sutd.edu.sg&sz=128" width="24"/> &nbsp; SUTD<br/>
+        <img src="https://www.google.com/s2/favicons?domain=yonsei.ac.kr&sz=128" width="24"/> &nbsp; Yonsei University, Seoul, Korea<br/>
+        <img src="https://www.google.com/s2/favicons?domain=northeastern.edu&sz=128" width="24"/> &nbsp; Northeastern University, Boston, U.S.<br/>
+        <img src="[https://www.google.com/s2/favicons?domain=isct.ac.jp&sz=128](https://media.licdn.com/dms/image/v2/D560BAQFUkn7xLMReqw/company-logo_200_200/company-logo_200_200/0/1727158884902/sciencetokyo_logo?e=2147483647&v=beta&t=YiT-Yi0U5VNcE-jC86Obm56LMrUlDX9o8atO1Ss9o6o)" width="24"/> &nbsp; Institute of Science Tokyo, Japan<br/>
+        <img src="https://www.google.com/s2/favicons?domain=sutd.edu.sg&sz=128" width="24"/> &nbsp; SUTD, Singapore<br/>
         <img src="https://www.google.com/s2/favicons?domain=adelaide.edu.au&sz=128" width="24"/> &nbsp; University of Adelaide<br/>
-        <img src="https://www.google.com/s2/favicons?domain=northeastern.edu&sz=128" width="24"/> &nbsp; Northeastern University<br/>
-        <img src="https://www.google.com/s2/favicons?domain=isct.ac.jp&sz=128" width="24"/> &nbsp; Institute of Science Tokyo<br/>
-        <img src="https://www.google.com/s2/favicons?domain=hyundai.com&sz=128" width="24"/> &nbsp; Hyundai Motor Company<br/>
-        <img src="https://www.google.com/s2/favicons?domain=inha.ac.kr&sz=128" width="24"/> &nbsp; Inha University<br/>
         <img src="https://www.google.com/s2/favicons?domain=oulu.fi&sz=128" width="24"/> &nbsp; University of Oulu
+        <img src="https://www.google.com/s2/favicons?domain=hyundai.com&sz=128" width="24"/> &nbsp; Hyundai Motor Company, Korea<br/>
+        <img src="https://www.google.com/s2/favicons?domain=sktelecom.com&sz=128" width="24"/> &nbsp; SK Telecom, Korea<br/>
+        <img src="https://www.google.com/s2/favicons?domain=ewha.ac.kr&sz=128" width="24"/> &nbsp; Ewha Womans University, Seoul, Korea<br/>
+        <img src="https://www.google.com/s2/favicons?domain=inha.ac.kr&sz=128" width="24"/> &nbsp; Inha University, Korea<br/>
+        
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/Python-262139?style=for-the-badge&logo=python&logoColor=F472B6" height="27"/>

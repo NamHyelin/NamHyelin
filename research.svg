@@ -1,23 +1,26 @@
-<svg width="1600" height="72" viewBox="0 0 1600 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<svg width="1600" height="78" viewBox="0 0 1600 78"
+     fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad" x1="0" y1="0" x2="1600" y2="0"
+                    gradientUnits="userSpaceOnUse">
       <stop stop-color="#A78BFA"/>
       <stop offset="0.45" stop-color="#C084FC"/>
       <stop offset="1" stop-color="#F472B6"/>
     </linearGradient>
   </defs>
 
-  <rect width="1600" height="72" fill="transparent"/>
-
   <text
     x="800"
-    y="45"
+    y="49"
     text-anchor="middle"
     fill="url(#grad)"
     font-family="monospace"
-    font-size="33"
+    font-size="31"
     font-weight="700"
-    letter-spacing="1.15">
+    letter-spacing="0.4"
+    textLength="1480"
+    lengthAdjust="spacingAndGlyphs">
     ✦ SEMANTIC COMMUNICATIONS · MULTIMODAL GENAI · LLM · DISTRIBUTED LEARNING · WIRELESS TESTBEDS ✦
   </text>
 </svg>

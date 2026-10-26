@@ -54,27 +54,58 @@
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      
+<td valign="top">
 
-<img src="https://img.shields.io/badge/Yonsei%20University,%20Seoul,%20Korea-262139?style=for-the-badge&logo=google-scholar&logoColor=F472B6" height="27"/>
-<br/>
-<img src="https://img.shields.io/badge/Northeastern%20University,%20Boston,%20U.S.-252341?style=for-the-badge&logo=google-scholar&logoColor=A78BFA" height="27"/>
-<br/>
-<img src="https://img.shields.io/badge/Institute%20of%20Science%20Tokyo,%20Japan-202C49?style=for-the-badge&logo=google-scholar&logoColor=79B8FF" height="27"/>
-<br/>
-<img src="https://img.shields.io/badge/SUTD,%20Singapore-262139?style=for-the-badge&logo=google-scholar&logoColor=F472B6" height="27"/>
-<br/>
-<img src="https://img.shields.io/badge/University%20of%20Adelaide-252341?style=for-the-badge&logo=google-scholar&logoColor=A78BFA" height="27"/>
-<br/>
-<img src="https://img.shields.io/badge/University%20of%20Oulu-202C49?style=for-the-badge&logo=google-scholar&logoColor=79B8FF" height="27"/>
-<br/>
-<img src="https://img.shields.io/badge/Hyundai%20Motor%20Company,%20Korea-262139?style=for-the-badge&logo=hyundai&logoColor=F472B6" height="27"/>
-<br/>
-<img src="https://img.shields.io/badge/SK%20Telecom,%20Korea-252341?style=for-the-badge&logo=google-scholar&logoColor=A78BFA" height="27"/>
-<br/>
-<img src="https://img.shields.io/badge/Ewha%20Womans%20University,%20Seoul,%20Korea-202C49?style=for-the-badge&logo=google-scholar&logoColor=79B8FF" height="27"/>
-<br/>
-<img src="https://img.shields.io/badge/Inha%20University,%20Korea-262139?style=for-the-badge&logo=google-scholar&logoColor=F472B6" height="27"/>
+<a href="https://www.yonsei.ac.kr/">
+  <img src="https://www.google.com/s2/favicons?domain=yonsei.ac.kr&sz=128" width="24" height="24" alt="Yonsei"/>
+  <img src="https://img.shields.io/badge/Yonsei_University_·_Seoul,_Korea-262139?style=for-the-badge" height="27"/>
+</a><br/>
+
+<a href="https://www.northeastern.edu/">
+  <img src="https://www.google.com/s2/favicons?domain=northeastern.edu&sz=128" width="24" height="24" alt="Northeastern"/>
+  <img src="https://img.shields.io/badge/Northeastern_University_·_Boston,_USA-252341?style=for-the-badge" height="27"/>
+</a><br/>
+
+<a href="https://www.isct.ac.jp/en">
+  <img src="https://www.google.com/s2/favicons?domain=isct.ac.jp&sz=128" width="24" height="24" alt="Science Tokyo"/>
+  <img src="https://img.shields.io/badge/Institute_of_Science_Tokyo_·_Japan-202C49?style=for-the-badge" height="27"/>
+</a><br/>
+
+<a href="https://www.sutd.edu.sg/">
+  <img src="https://www.google.com/s2/favicons?domain=sutd.edu.sg&sz=128" width="24" height="24" alt="SUTD"/>
+  <img src="https://img.shields.io/badge/SUTD_·_Singapore-262139?style=for-the-badge" height="27"/>
+</a><br/>
+
+<a href="https://www.adelaide.edu.au/">
+  <img src="https://www.google.com/s2/favicons?domain=adelaide.edu.au&sz=128" width="24" height="24" alt="Adelaide"/>
+  <img src="https://img.shields.io/badge/University_of_Adelaide_·_Australia-252341?style=for-the-badge" height="27"/>
+</a><br/>
+
+<a href="https://www.oulu.fi/en">
+  <img src="https://www.google.com/s2/favicons?domain=oulu.fi&sz=128" width="24" height="24" alt="Oulu"/>
+  <img src="https://img.shields.io/badge/University_of_Oulu_·_Finland-202C49?style=for-the-badge" height="27"/>
+</a><br/>
+
+<a href="https://www.hyundai.com/">
+  <img src="https://www.google.com/s2/favicons?domain=hyundai.com&sz=128" width="24" height="24" alt="Hyundai"/>
+  <img src="https://img.shields.io/badge/Hyundai_Motor_Company_·_Korea-262139?style=for-the-badge" height="27"/>
+</a><br/>
+
+<a href="https://www.sktelecom.com/">
+  <img src="https://www.google.com/s2/favicons?domain=sktelecom.com&sz=128" width="24" height="24" alt="SK Telecom"/>
+  <img src="https://img.shields.io/badge/SK_Telecom_·_Korea-252341?style=for-the-badge" height="27"/>
+</a><br/>
+
+<a href="https://www.ewha.ac.kr/">
+  <img src="https://www.google.com/s2/favicons?domain=ewha.ac.kr&sz=128" width="24" height="24" alt="Ewha"/>
+  <img src="https://img.shields.io/badge/Ewha_Womans_University_·_Seoul,_Korea-202C49?style=for-the-badge" height="27"/>
+</a><br/>
+
+<a href="https://www.inha.ac.kr/">
+  <img src="https://www.google.com/s2/favicons?domain=inha.ac.kr&sz=128" width="24" height="24" alt="Inha"/>
+  <img src="https://img.shields.io/badge/Inha_University_·_Korea-262139?style=for-the-badge" height="27"/>
+</a>
 
 </td>
       <td valign="top">

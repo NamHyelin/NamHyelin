@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="research.svg" width="92%" alt="Research themes" />
+  <img src="research.svg" width="98%" alt="Research themes" />
 </p>
 
 

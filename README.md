@@ -46,7 +46,7 @@
 
 <table>
   <tr>
-    <td width="54%" valign="top">
+    <td width="50%" valign="top">
 
 <table>
   <thead>
@@ -72,7 +72,8 @@
 </table>
 
 </td>
-<td width="46%" valign="top">
+<td width="50%" valign="top">
+
 
 <table>
   <thead>
@@ -82,63 +83,33 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow&perline=4&theme=dark" alt="Python C++ PyTorch TensorFlow" /><br/><br/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,vscode&perline=4&theme=dark" alt="Docker Kubernetes Git VS Code" /><br/><br/>
-        <b>MATLAB · CUDA · Linux</b>
+      <td align="left">
+
+<img src="https://img.shields.io/badge/Python-262139?style=for-the-badge&logo=python&logoColor=F472B6" height="27"/>
+<img src="https://img.shields.io/badge/C++-262139?style=for-the-badge&logo=cplusplus&logoColor=A78BFA" height="27"/>
+<img src="https://img.shields.io/badge/PyTorch-262139?style=for-the-badge&logo=pytorch&logoColor=F472B6" height="27"/>
+<img src="https://img.shields.io/badge/TensorFlow-262139?style=for-the-badge&logo=tensorflow&logoColor=A78BFA" height="27"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-252341?style=for-the-badge&logo=docker&logoColor=79B8FF" height="27"/>
+<img src="https://img.shields.io/badge/Kubernetes-252341?style=for-the-badge&logo=kubernetes&logoColor=A78BFA" height="27"/>
+<img src="https://img.shields.io/badge/Git-252341?style=for-the-badge&logo=git&logoColor=F472B6" height="27"/>
+<img src="https://img.shields.io/badge/VS_Code-252341?style=for-the-badge&logo=visualstudiocode&logoColor=79B8FF" height="27"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MATLAB-202C49?style=for-the-badge&logoColor=F472B6" height="27"/>
+<img src="https://img.shields.io/badge/CUDA-202C49?style=for-the-badge&logo=nvidia&logoColor=A78BFA" height="27"/>
+<img src="https://img.shields.io/badge/Linux-202C49?style=for-the-badge&logo=linux&logoColor=79B8FF" height="27"/>
+
       </td>
     </tr>
   </tbody>
 </table>
 
+
 </td>
   </tr>
 </table>
 
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Publications</th>
-      <th align="center">Cites</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Dual-Stage Channel-Posterior Integration for MLM-Aided Token Communications</b><br/><sub><b>H. Nam</b>, J. Lee, S.-W. Ko, J. Choi, and S.-L. Kim<br/>Submitted to <i>IEEE Wireless Communications Letters</i></sub></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td><b>Hybrid Semantic Communication for Controllable Fidelity in Wireless Image Transmission</b><br/><sub><b>H. Nam</b>, J. Park, J. Choi, M. Bennis, and S.-L. Kim<br/><i>IEEE Transactions on Cognitive Communications and Networking</i> (under revision)</sub></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td><b>Hybrid Semantic-Complementary Transmission for High-Fidelity Image Reconstruction</b><br/><sub><b>H. Nam</b>, J. Park, J. Choi, and S.-L. Kim<br/><i>ICASSP</i>, Barcelona</sub></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td><b>Language-Oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation</b><br/><sub><b>H. Nam</b>, J. Park, J. Choi, and S.-L. Kim<br/><i>ICASSP</i>, 2024</sub></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td><b>Sequential Semantic Generative Communication for Progressive Text-to-Image Generation</b><br/><sub><b>H. Nam</b>, J. Park, J. Choi, and S.-L. Kim<br/><i>SECON</i>, 2023</sub></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td><b>Active Wireless Split Learning via Online Cloud-Local Server Delta-Knowledge Distillation</b><br/><sub><b>H. Nam</b>, J. Park, and S.-L. Kim<br/><i>ICC Workshops</i>, 2023</sub></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td><b>A Spectrum Sharing System: Visualized Interference Classification and CNN Approach</b><br/><sub><b>H. Nam</b>, K. Han, J. Park, H. Cha, and S.-L. Kim<br/><i>DySPAN</i>, 2021</sub></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td><b>Mix2SFL: Two-Way Mixup for Scalable, Accurate, and Communication-Efficient Split Federated Learning</b><br/><sub>S. Oh, <b>H. Nam</b>, J. Park, P. Vepakomma, R. Raskar, M. Bennis, and S.-L. Kim<br/><i>IEEE Transactions on Big Data</i>, 2024</sub></td>
-      <td align="center">—</td>
-    </tr>
-  </tbody>
-</table>
-
-<p align="right">
-  <a href="https://scholar.google.com/citations?hl=en&user=KTjNYtAAAAAJ"><b>All publications · Google Scholar ↗</b></a>
-</p>

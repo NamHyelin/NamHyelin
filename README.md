@@ -14,18 +14,21 @@
 </p>
 
 
-Links
-<p>
-  <a href="mailto:hlnam@ramo.yonsei.ac.kr" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Gmail" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hyelin-nam-1811b229a" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/8B5CF6" width="28" height="28" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=KTjNYtAAAAAJ" title="Google Scholar">
-    <img src="https://cdn.simpleicons.org/googlescholar/D86AC3" width="28" height="28" alt="Google Scholar" />
+
+### Links
+
+<p align="left">
+  <a href="mailto:hlnam@ramo.yonsei.ac.kr">
+    <img src="https://img.shields.io/badge/GMAIL-262139?style=for-the-badge&logo=gmail&logoColor=F472B6" height="29" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/hyelin-nam-1811b229a">
+    <img src="https://img.shields.io/badge/LINKEDIN-252341?style=for-the-badge&logo=linkedin&logoColor=CE93D8" height="29" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=KTjNYtAAAAAJ">
+    <img src="https://img.shields.io/badge/SCHOLAR-202C49?style=for-the-badge&logo=googlescholar&logoColor=9575CD" height="29" alt="Google Scholar" />
   </a>
 </p>
+
 
 
 <table>

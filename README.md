@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="research.svg" width="98%" alt="Research themes" />
+  <img src="research.svg" width="100%" alt="Research themes" />
 </p>
 
 
@@ -37,7 +37,7 @@
   <a href="https://scholar.google.com/citations?user=KTjNYtAAAAAJ">
     <img
       src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=KTjNYtAAAAAJ&count=5"
-      width="100%"
+      width="92%"
       alt="Google Scholar Publications"
     />
   </a>

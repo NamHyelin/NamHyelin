@@ -25,27 +25,16 @@
   <a href="mailto:hlnam@ramo.yonsei.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/hyelin-nam-1811b229a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://scholar.google.com/citations?hl=ko&user=KTjNYtAAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
-  <a href="https://github.com/NamHyelin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <br/>
 
-## About Me
-
-- 🔬 I work on **AI-native wireless communications** with a focus on semantic-aware transmission and inference.
-- 🤖 My recent interests include **multimodal generative AI**, **LLM-aided communication**, and **distributed learning**.
-- 🛠️ I enjoy turning research ideas into **practical implementations** through **wireless testbeds** and real-world systems.
-- 🌐 I’m currently exploring **semantic network slicing**, **AI-RAN/X5G**, and **communication-efficient AI frameworks**.
-
-<br/>
 
 ## Institutions & Collaborations
 
@@ -59,18 +48,6 @@
   <img src="https://img.shields.io/badge/Hyundai-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Inha%20University-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/University%20of%20Oulu-4F46E5?style=for-the-badge" />
-</p>
-
-<br/>
-
-## Research Themes
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Semantic%20Comms-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Multimodal%20GenAI-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM--Aided%20Communication-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Distributed%20Learning-1D4ED8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireless%20Testbeds-0F766E?style=flat-square" />
 </p>
 
 <br/>

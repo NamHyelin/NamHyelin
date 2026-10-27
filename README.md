@@ -120,7 +120,6 @@
         <br/>
         <img src="https://img.shields.io/badge/MATLAB-202C49?style=for-the-badge" height="27"/>
         <img src="https://img.shields.io/badge/CUDA-202C49?style=for-the-badge&logo=nvidia&logoColor=A78BFA" height="27"/>
-        <img src="https://img.shields.io/badge/Linux-202C49?style=for-the-badge&logo=linux&logoColor=79B8FF" height="27"/>
       </td>
     </tr>
   </tbody>

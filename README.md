@@ -33,23 +33,47 @@
 
 
 
-| Publication | Year | Citations |
-| :--- | ---: | ---: |
-| [Language-oriented communication with semantic coding and knowledge distillation for text-to-image generation](https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3Au-x6o8ySG0sC) | 2024 | 77 |
-| [Differentially private cutmix for split learning with vision transformer](https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3Au5HHmVD_uO8C) | 2022 | 26 |
-| [Sequential semantic generative communication for progressive text-to-image generation](https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3A2osOgNQ5qMEC) | 2023 | 20 |
-| [Mix2sfl: Two-way mixup for scalable, accurate, and communication-efficient split federated learning](https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AqjMakFHDy7sC) | 2023 | 17 |
+<table width="70%">
+  <thead>
+    <tr>
+      <th width="80%" align="left">Publication</th>
+      <th width="10%" align="center">Year</th>
+      <th width="10%" align="right">Citations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Language-oriented communication with semantic coding and knowledge distillation for text-to-image generation</td>
+      <td align="center">2024</td>
+      <td align="right">77</td>
+    </tr>
+    <tr>
+      <td>Differentially private cutmix for split learning with vision transformer</td>
+      <td align="center">2022</td>
+      <td align="right">26</td>
+    </tr>
+    <tr>
+      <td>Sequential semantic generative communication for progressive text-to-image generation</td>
+      <td align="center">2023</td>
+      <td align="right">20</td>
+    </tr>
+    <tr>
+      <td>Mix2sfl: Two-way mixup for scalable, accurate, and communication-efficient split federated learning</td>
+      <td align="center">2023</td>
+      <td align="right">17</td>
+    </tr>
+  </tbody>
+</table>
 
-*Sorted by citation count · Last successful update: 2026-11-10 22:23 UTC*
-*Updated periodically from Google Scholar.*
-<!-- SCHOLAR:END -->
+<sub>Sorted by citation count · Updated: November 10, 2026</sub>
 
 
 
 
 
 
-<table>
+
+<table width="70%">
   <thead>
     <tr>
       <th width="50%" align="left">Institutions &amp; Collaborations</th>

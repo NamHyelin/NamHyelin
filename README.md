@@ -36,7 +36,7 @@
 <table width="70%">
   <thead>
     <tr>
-      <th width="80%" align="left">Publication</th>
+      <th width="50%" align="left">Publication</th>
       <th width="10%" align="center">Year</th>
       <th width="10%" align="right">Citations</th>
     </tr>

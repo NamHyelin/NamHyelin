@@ -3,6 +3,12 @@
 Hyelin Nam의 Scholar ID `KTjNYtAAAAAJ`가 설정되어 있습니다.
 Python 표준 라이브러리로 Google Scholar HTML을 직접 읽습니다. API 키, 유료 서비스, Vercel, 추가 Python 패키지가 필요하지 않습니다.
 
+## 방법
+cd Downloads/Scholar_README_Direct
+python3 scripts/update_scholar.py
+하고 생성된 data 폴더 업로드 + README.md 복사 붙이기
+
+
 ## 동작
 
 1. 하루 한 번 Scholar 프로필의 인용 순 첫 페이지(최대 100개)를 요청합니다.

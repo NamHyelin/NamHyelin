@@ -32,15 +32,11 @@
 
 
 
-<p align="left">
-  <a href="https://scholar.google.com/citations?user=KTjNYtAAAAAJ">
-    <img
-      src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=KTjNYtAAAAAJ&count=4"
-      width="96%"
-      alt="Google Scholar"
-    />
-  </a>
-</p>
+[Google Scholar](https://scholar.google.com/citations?user=KTjNYtAAAAAJ)
+
+Publication data will appear after the first successful update.
+<!-- SCHOLAR:END -->
+
 
 
 

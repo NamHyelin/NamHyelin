@@ -33,9 +33,9 @@
 
 
 <p align="left">
-  <a href="https://scholar.google.com/citations?user=KTjNYtAAAAAJ">
+  <a href="https://scholar.google.com/citations?user=-KTjNYtAAAAAJ">
     <img
-      src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=KTjNYtAAAAAJ&count=4"
+      src="https://vercel-google-scholar-publications.vercel.app/api/badge?scholar_id=-KTjNYtAAAAAJ&count=4"
       width="96%"
       alt="Google Scholar"
     />

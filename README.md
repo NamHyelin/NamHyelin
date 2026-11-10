@@ -65,8 +65,6 @@
   </tbody>
 </table>
 
-<sub>Sorted by citation count · Updated: November 10, 2026</sub>
-
 
 
 

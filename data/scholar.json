@@ -1,0 +1,129 @@
+{
+  "scholar_id": "KTjNYtAAAAAJ",
+  "source": "Google Scholar HTML",
+  "acquisition": "direct_http",
+  "scope": "Loaded profile rows (direct HTTP: first page, up to 100)",
+  "fetched_at": "2026-11-10 22:23 UTC",
+  "papers": [
+    {
+      "title": "Language-oriented communication with semantic coding and knowledge distillation for text-to-image generation",
+      "authors": "H Nam, J Park, J Choi, M Bennis, SL Kim",
+      "publication": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+      "year": "2024",
+      "citations": 77,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3Au-x6o8ySG0sC"
+    },
+    {
+      "title": "Differentially private cutmix for split learning with vision transformer",
+      "authors": "S Oh, J Park, S Baek, H Nam, P Vepakomma, R Raskar, M Bennis, ...",
+      "publication": "arXiv preprint arXiv:2210.15986, 2022",
+      "year": "2022",
+      "citations": 26,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3Au5HHmVD_uO8C"
+    },
+    {
+      "title": "Sequential semantic generative communication for progressive text-to-image generation",
+      "authors": "H Nam, J Park, J Choi, SL Kim",
+      "publication": "2023 20th Annual IEEE International Conference on Sensing, Communication …, 2023",
+      "year": "2023",
+      "citations": 20,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3A2osOgNQ5qMEC"
+    },
+    {
+      "title": "Mix2sfl: Two-way mixup for scalable, accurate, and communication-efficient split federated learning",
+      "authors": "S Oh, H Nam, J Park, P Vepakomma, R Raskar, M Bennis, SL Kim",
+      "publication": "IEEE Transactions on Big Data 10 (3), 238-248, 2023",
+      "year": "2023",
+      "citations": 17,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AqjMakFHDy7sC"
+    },
+    {
+      "title": "Privacy-preserving split learning with vision transformers using patch-wise random and noisy cutmix",
+      "authors": "S Oh, S Baek, J Park, H Nam, P Vepakomma, R Raskar, M Bennis, ...",
+      "publication": "arXiv preprint arXiv:2408.01040, 2024",
+      "year": "2024",
+      "citations": 13,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AW7OEmFMy1HYC"
+    },
+    {
+      "title": "A spectrum sharing system: Visualized interference classification and CNN approach",
+      "authors": "H Nam, K Han, J Park, H Cha, SL Kim",
+      "publication": "2021 IEEE International Symposium on Dynamic Spectrum Access Networks …, 2021",
+      "year": "2021",
+      "citations": 6,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3A9yKSN-GCB0IC"
+    },
+    {
+      "title": "Active wireless split learning via online cloud-local server Delta-knowledge distillation",
+      "authors": "H Nam, J Park, SL Kim",
+      "publication": "2023 IEEE International Conference on Communications Workshops (ICC …, 2023",
+      "year": "2023",
+      "citations": 5,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3ATyk-4Ss8FVUC"
+    },
+    {
+      "title": "ML-based vision classification in the smart brewing factory testbed",
+      "authors": "S Kook, S Baek, H Nam, SL Kim",
+      "publication": "2022 IEEE International Conference on Communications Workshops (ICC …, 2022",
+      "year": "2022",
+      "citations": 4,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3Ad1gkVwhDpl0C"
+    },
+    {
+      "title": "Hybrid Semantic-Complementary Transmission for High-Fidelity Image Reconstruction",
+      "authors": "H Nam, J Park, J Choi, SL Kim",
+      "publication": "ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and …, 2026",
+      "year": "2026",
+      "citations": 3,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AeQOLeE2rZwMC"
+    },
+    {
+      "title": "Interoperable Semantic Communication",
+      "authors": "J Choi, H Nam, J Park, SW Ko, J Choi, M Bennis, SL Kim",
+      "publication": "Foundations of Semantic Communication Networks, 201-213, 2025",
+      "year": "2025",
+      "citations": 1,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AYsMSGLbcyi4C"
+    },
+    {
+      "title": "Image-Text 멀티모달 변환을 통한 의미 전달 기반 Semantic 통신",
+      "authors": "남혜린， 김진혁， 박지홍， 김성륜",
+      "publication": "한국통신학회 학술대회논문집, 712-713, 2023",
+      "year": "2023",
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AUeHWp8X0CEIC"
+    },
+    {
+      "title": "Zero Perception Error Rate-Distortion for Semantic Communication",
+      "authors": "J Choi, H Nam, J Park, SW Ko, SL Kim",
+      "publication": "2025 61st Allerton Conference on Communication, Control, and Computing …, 2025",
+      "year": "2025",
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AWF5omc3nYNoC"
+    },
+    {
+      "title": "선택적 상향링크 전송을 통한 통신 효율적인 보조 서버 기반 분할 학습",
+      "authors": "남혜린， 김성륜",
+      "publication": "한국통신학회 학술대회논문집, 250-251, 2022",
+      "year": "2022",
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AY0pCki6q_DkC"
+    },
+    {
+      "title": "스마트 팩토리를 위한 KOREN 기반 분산학습 기술",
+      "authors": "백시훈， 남혜린， 국수진， 김성륜",
+      "publication": "한국통신학회 학술대회논문집, 800-801, 2021",
+      "year": "2021",
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AzYLM7Y9cAGgC"
+    },
+    {
+      "title": "실내 위치 측위를 통한 D2D 통신 성공 확률 (Opportunity Probability) 측정 및 예측",
+      "authors": "한규원， 남혜린， 박지훈， 성명훈， 김성륜",
+      "publication": "한국통신학회 학술대회논문집, 463-463, 2022",
+      "year": "2022",
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?user=KTjNYtAAAAAJ&hl=en&view_op=view_citation&citation_for_view=KTjNYtAAAAAJ%3AIjCSPb-OGe4C"
+    }
+  ]
+}

@@ -34,8 +34,6 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=KTjNYtAAAAAJ)
 
-Publication data will appear after the first successful update.
-<!-- SCHOLAR:END -->
 
 
 

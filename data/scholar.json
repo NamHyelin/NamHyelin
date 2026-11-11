@@ -3,7 +3,7 @@
   "source": "Google Scholar HTML",
   "acquisition": "direct_http",
   "scope": "Loaded profile rows (direct HTTP: first page, up to 100)",
-  "fetched_at": "2026-11-10 22:23 UTC",
+  "fetched_at": "2026-11-11 20:15 UTC",
   "papers": [
     {
       "title": "Language-oriented communication with semantic coding and knowledge distillation for text-to-image generation",

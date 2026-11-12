@@ -113,6 +113,11 @@
   <img src="https://img.shields.io/badge/University_of_Oulu_·_Finland-202C49?style=for-the-badge" height="27"/>
 </a><br/>
 
+<a href="https://www.mit.edu/">
+  <img src="https://www.google.com/s2/favicons?domain=mit.edu&sz=128" width="24" height="24" alt="MIT"/>
+  <img src="https://img.shields.io/badge/Massachusetts Institute of Technology_·_U.S.-202C49?style=for-the-badge" height="27"/>
+</a><br/>
+
 <a href="https://www.hyundai.com/">
   <img src="https://www.google.com/s2/favicons?domain=hyundai.com&sz=128" width="24" height="24" alt="Hyundai"/>
   <img src="https://img.shields.io/badge/Hyundai_Motor_Company_·_Korea-262139?style=for-the-badge" height="27"/>

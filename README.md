@@ -45,7 +45,7 @@
     <tr>
       <td>Language-oriented communication with semantic coding and knowledge distillation for text-to-image generation</td>
       <td align="center">2024</td>
-      <td align="right">77</td>
+      <td align="right">78</td>
     </tr>
     <tr>
       <td>Differentially private cutmix for split learning with vision transformer</td>
